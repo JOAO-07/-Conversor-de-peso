@@ -1,0 +1,39 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+ 
+body{
+    background-color: rgba(226, 204, 204, 0.568);
+    color: black;
+}
+
+ html {
+    font-size: 30px;
+}
+
+body {
+    font-family: "Open Sans" , sans-serif;
+}
+p {
+    font-size: 25;
+    line-height: 1.5;
+    background-color: hwb(240 1% 92%);
+    color: white;
+}
+
+img{
+    width: 100px;
+}
+
+.container{
+    background-color: rgb(15, 15, 19);
+    color: white;
+    text-align: center;
+    font-size: 30px;
+    max-width: 1000px;
+    margin:  50px;
+    padding:  100px;
+}
+/* Conversio formula*/ 
